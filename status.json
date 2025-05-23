@@ -1,4 +1,5 @@
 {
     "maintenance_mode": true,
+    "maintenance_title": "Maintenance Mode Enabled",
     "maintenance_message": "VRCKit is down right now due to my ISP! Please join to discord.gg/dPSZuVSnpc for more info!"
 }
