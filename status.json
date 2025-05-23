@@ -1,5 +1,5 @@
 {
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "maintenance_title": "Maintenance Mode Enabled",
     "maintenance_message": "My project is closed for 4 hours because the power went out. Please join to discord.gg/dPSZuVSnpc for more info! I'm hosting this project from my home."
 }
