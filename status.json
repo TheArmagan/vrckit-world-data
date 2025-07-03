@@ -3,6 +3,6 @@
     "maintenance_title": "Maintenance Mode Enabled",
     "maintenance_message": "Project going to be down for a few days. My server's motherboard just burned. - 06/04/2025 (For more info: discord.gg/dPSZuVSnpc)",
     "announcement_mode": true,
-    "announcement_title": "DDoS attacks!",
+    "announcement_title": "Notice!",
     "announcement_message": "VRCKit is under frequent DDoS attacks, you may experience issues. I'm actively working on a fix. For updates, please join the Discord. (discord.gg/vrckit) Thanks for your patience and understanding!"
 }
